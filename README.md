@@ -1,6 +1,8 @@
 # Worker-Chart.Js-SharePoint Framework Custom development
 First You should use the chart.js
+
     nmp install --save chart.js
+    
 Chart.js Report With Worker can dispose 100W+ datas
 Worker&amp;&amp;Chart.js
 jquery-webpart.ts contains the main function
